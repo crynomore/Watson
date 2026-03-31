@@ -57,19 +57,19 @@ git clone https://github.com/youruser/watson.git
 cd watson
 ```
 
-Or download the ZIP from the [Releases](../../releases) page.
+Or download the ZIP from the [Releases](https://github.com/crynomore/Watson/releases) page.
 
 ---
 
 ### Step 3 — Download the extension JAR
 
-Go to [Releases](../../releases) and download `watson-burp.jar`.  
+Go to [Releases](https://github.com/crynomore/Watson/releases) and download `watson-1.0.jar`.  
 Place it in the `extension/` folder:
 
 ```
 watson/
 └── extension/
-    └── watson-burp.jar   ← here
+    └── watson-1.0.jar   ← here
 ```
 
 ---
