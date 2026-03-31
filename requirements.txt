@@ -1,0 +1,9 @@
+# Core server
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+python-dotenv==1.0.1
+
+# AI providers — install only what you use
+openai==1.51.0              # required for openai provider (default)
+anthropic==0.34.2           # required for claude provider
+google-generativeai==0.8.3  # required for gemini provider
