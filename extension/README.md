@@ -4,9 +4,9 @@ Place the compiled JAR file in this folder:
 
 ```
 extension/
-└── watson-burp.jar   ← drop it here
+└── watson-1.x.jar   ← drop it here
 ```
 
-The JAR is distributed separately (see the [Releases](../../releases) page on GitHub).
+The JAR is distributed separately (see the [Releases](https://github.com/crynomore/Watson/releases) page on GitHub).
 
 Once the JAR is here, run the installer and it will detect it automatically.
