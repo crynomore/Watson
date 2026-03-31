@@ -38,8 +38,6 @@ Watson is an AI-powered Burp Suite extension that transforms manual web security
 | Burp Suite | Any | Community or Pro |
 | AI API key | — | **Gemini is free — 30 seconds to get one** |
 
-> **No Java or Maven required.** The compiled extension JAR is provided in [Releases](../../releases).
-
 ---
 
 ### Step 1 — Get a free AI API key
